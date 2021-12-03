@@ -1,0 +1,108 @@
+﻿@page "/login"
+
+<style>
+    body{
+        text-align:center;
+
+    }
+    .login {
+        margin-top: 50px;
+        text-align: center;
+        margin-bottom: 25px;
+    }
+
+    .konto {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: inherit;
+        height: auto;
+    }
+
+    #logo {
+        width: 295px;
+        height: 70px;
+        margin-bottom: 50px;
+        padding: 0;
+        margin: 0;
+       
+       
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        text-align: center;
+        color: green;
+    }
+
+    strong {
+        text-align: center;
+    }
+
+    button {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .container{
+        margin-top: 25px;
+    }
+    #footer {
+        width: 83%;
+        height: 70px;
+        background-color: green;
+        color: white;
+        text-align:center;
+       
+        padding: 20px;
+        border-radius: 5px;
+        font-family: 'Fira Sans', sans-serif;
+        margin-top: 50px;
+        position:fixed;
+        bottom:0;
+        text-align:center;
+        
+       
+    }
+
+    a {
+        color: white;
+        text-decoration: none;
+    }
+
+        a:hover {
+            text-decoration: underline;
+            color: white;
+        }
+</style>
+
+<header>
+    <img id="logo" src="https://th.bing.com/th/id/R.b5baaa940d6a2b16ab49de45ef8a45d1?rik=VJoMj2No9OeJ6g&riu=http%3a%2f%2fsar-anlagenbau.de%2fwordpress%2fwp-content%2fthemes%2fagency%2fthemify%2fimg.php%3fsrc%3dhttp%3a%2f%2fsar-anlagenbau.de%2fwordpress%2fwp-content%2fuploads%2fmontaplast.gif%26w%3d670%26h%3d&ehk=Ujue7pkoRRJE8m9Qcki%2bs9NFyHFH5Qp7r14H3lXAZcE%3d&risl=&pid=ImgRaw&r=0" />
+</header>
+<h1>Service für Kunden</h1>
+<br />
+<strong>Hier können sich registrierte Kunden von Montaplast einloggen </strong>
+<br />
+  <div class="container">
+<label for="uname"><b>Username</b></label>
+<input type="text" placeholder="Enter Username" name="uname" required>
+      <br />
+<label for="psw"><b>Password</b></label>
+<input type="password" placeholder="Enter Password" name="psw" required>
+
+
+
+  </div>
+
+  <div class="container">
+      <button type="submit" class="btn btn-outline-primary" >Login</button>
+      <button type="button" class="btn btn-outline-danger">Cancel</button>
+  </div>
+  <footer id="footer">
+      <a href="#"> &copy; 2009-2016 Montaplast GmbH </a>|<a href="#">info (at) montaplast.com</a>  | <a href="/impressum" target="_blank">Impressum</a>
+      |<a href="/daten" target="_blank"> Datenschutz</a> 
+
+  </footer>
+
+    @code {
+        
+    }

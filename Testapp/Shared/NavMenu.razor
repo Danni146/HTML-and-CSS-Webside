@@ -1,0 +1,100 @@
+﻿
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet">
+
+<style>
+    #nav {
+        
+        font-family: 'Roboto', sans-serif;      
+    }
+    .top-row pl-4 navbar navbar-dark{
+        background-color:green;
+    }
+    .green {
+        background-color: green;
+        margin-top: 25px;
+        text-align: center;
+        padding: 15px;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 800;
+    }
+    #navbar{
+        background-color:green;
+    }
+    .navbar-brand{
+        color: white;
+
+    }
+    .navbar-brand:hover{
+        text-decoration:underline;
+        color:white;
+    }
+    
+</style>
+
+<div class="green" >
+    <a class="navbar-brand" href="#">Montaplast</a>
+    <button class="navbar-toggler" @onclick="ToggleNavMenu">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+</div>
+<div id="navbar">
+    <div class="@NavMenuCssClass" @onclick="ToggleNavMenu" id="nav">
+        <ul class="nav flex-column">
+            <li class="nav-item px-3">
+                <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                    <span class="oi oi-home" aria-hidden="true"></span> Home
+                </NavLink>
+            </li>
+            <li class="nav-item px-3">
+                <NavLink class="nav-link" href="counter">
+                    <span class="oi oi-book" aria-hidden="true"></span> Job & Karriere
+                </NavLink>
+            </li>
+            <li class="nav-item px-3">
+                <NavLink class="nav-link" href="fetchdata">
+                    <span class="oi oi-cart" aria-hidden="true"></span> Unsere Produkte
+                </NavLink>
+            </li>
+            <li class="nav-item px-3">
+                <NavLink class="nav-link" href="restaurant">
+                    <span class="oi oi-map-marker" aria-hidden="true"></span> Standorte
+                </NavLink>
+            </li>
+            <li class="nav-item px-3">
+                <NavLink class="nav-link" href="group">
+                    <span class="oi oi-people" aria-hidden="true"></span> STULZ Gruppe
+                </NavLink>
+            </li>
+            <li class="nav-item px-3">
+                <NavLink class="nav-link" href="login">
+                    <span class="oi oi-chat" aria-hidden="true"></span> Kundenservice
+                </NavLink>
+            </li>
+            <li class="nav-item px-3">
+                <NavLink class="nav-link" href="technik">
+                    <span class="oi oi-puzzle-piece" aria-hidden="true"></span> Technologien
+                </NavLink>
+            </li>
+            <li class="nav-item px-3">
+                <NavLink class="nav-link" target="_blank" href="https://www.montaplast.com/fileadmin/user_upload/Nachhaltigkeitsreport_Montaplast_GmbH.pdf">
+                    <span class="oi oi-globe" aria-hidden="true"></span> Nachhaltigkeitsreport
+                </NavLink>
+            </li>
+
+        </ul>
+    </div>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

@@ -1,0 +1,192 @@
+C:\Users\praktikantit\source\repos\Testapp\Testapp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\praktikantit\source\repos\Testapp\Testapp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\praktikantit\source\repos\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.exe
+C:\Users\praktikantit\source\repos\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.deps.json
+C:\Users\praktikantit\source\repos\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.runtimeconfig.json
+C:\Users\praktikantit\source\repos\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.runtimeconfig.dev.json
+C:\Users\praktikantit\source\repos\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.dll
+C:\Users\praktikantit\source\repos\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.pdb
+C:\Users\praktikantit\source\repos\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.Views.dll
+C:\Users\praktikantit\source\repos\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.Views.pdb
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.csproj.AssemblyReference.cache
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.AssemblyInfoInputs.cache
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.AssemblyInfo.cs
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.csproj.CoreCompileInputs.cache
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.RazorComponent.input.cache
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.RazorComponent.output.cache
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Testapp.dll
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.TagHelpers.input.cache
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.TagHelpers.output.cache
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.RazorCoreGenerate.cache
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.RazorAssemblyInfo.cache
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.RazorAssemblyInfo.cs
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\staticwebassets\Testapp.StaticWebAssets.Manifest.cache
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\staticwebassets\Testapp.StaticWebAssets.xml
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\scopedcss\bundle\Testapp.styles.css
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.RazorTargetAssemblyInfo.cache
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.RazorTargetAssemblyInfo.cs
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.Views.pdb
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.dll
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.pdb
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.genruntimeconfig.cache
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.csproj.CopyComplete
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Restaurant.razor.g.cs
+C:\Users\praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurant.razor.g.cs
+C:\Users\Praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Group.razor.g.cs
+C:\Users\Praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\Group.razor.g.cs
+C:\Users\Praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\Praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\Login.razor.g.cs
+C:\Users\Praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Technologien.razor.g.cs
+C:\Users\Praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\Technologien.razor.g.cs
+C:\Users\Praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Datenschutz.razor.g.cs
+C:\Users\Praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\Datenschutz.razor.g.cs
+C:\Users\Praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Impressum.razor.g.cs
+C:\Users\Praktikantit\source\repos\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\Impressum.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\greb_\Downloads\Testapp\Testapp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\greb_\Downloads\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.exe
+C:\Users\greb_\Downloads\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.deps.json
+C:\Users\greb_\Downloads\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.runtimeconfig.json
+C:\Users\greb_\Downloads\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.runtimeconfig.dev.json
+C:\Users\greb_\Downloads\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.dll
+C:\Users\greb_\Downloads\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.pdb
+C:\Users\greb_\Downloads\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.Views.dll
+C:\Users\greb_\Downloads\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.Views.pdb
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.csproj.AssemblyReference.cache
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.AssemblyInfoInputs.cache
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.AssemblyInfo.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.csproj.CoreCompileInputs.cache
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.RazorComponent.input.cache
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Datenschutz.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Group.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Impressum.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Restaurant.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Technologien.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.RazorComponent.output.cache
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Testapp.dll
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.TagHelpers.input.cache
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.TagHelpers.output.cache
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.RazorCoreGenerate.cache
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\Datenschutz.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\Group.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\Impressum.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\Login.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurant.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\Technologien.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.RazorAssemblyInfo.cache
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.RazorAssemblyInfo.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\staticwebassets\Testapp.StaticWebAssets.Manifest.cache
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\staticwebassets\Testapp.StaticWebAssets.xml
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\scopedcss\bundle\Testapp.styles.css
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.RazorTargetAssemblyInfo.cache
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.RazorTargetAssemblyInfo.cs
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.Views.pdb
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.dll
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.pdb
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.genruntimeconfig.cache
+C:\Users\greb_\Downloads\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.csproj.CopyComplete
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.exe
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.deps.json
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.runtimeconfig.json
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.runtimeconfig.dev.json
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.dll
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.pdb
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.Views.dll
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\bin\Debug\netcoreapp3.1\Testapp.Views.pdb
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.csproj.AssemblyReference.cache
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.AssemblyInfoInputs.cache
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.AssemblyInfo.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.csproj.CoreCompileInputs.cache
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.RazorComponent.input.cache
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Datenschutz.razor.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Group.razor.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Impressum.razor.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Restaurant.razor.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Technologien.razor.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.RazorComponent.output.cache
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Testapp.dll
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.TagHelpers.input.cache
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.TagHelpers.output.cache
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.RazorCoreGenerate.cache
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\Datenschutz.razor.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\Group.razor.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\Impressum.razor.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\Login.razor.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurant.razor.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\Technologien.razor.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.RazorAssemblyInfo.cache
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.RazorAssemblyInfo.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\staticwebassets\Testapp.StaticWebAssets.Manifest.cache
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\staticwebassets\Testapp.StaticWebAssets.xml
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\scopedcss\bundle\Testapp.styles.css
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.RazorTargetAssemblyInfo.cache
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.RazorTargetAssemblyInfo.cs
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.Views.pdb
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.dll
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.pdb
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.genruntimeconfig.cache
+C:\Users\greb_\Documents\Mein Scheiß\Projekte\Testapp\Testapp\obj\Debug\netcoreapp3.1\Testapp.csproj.CopyComplete
